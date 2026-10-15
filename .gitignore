@@ -1,0 +1,7 @@
+﻿.venv/
+__pycache__/
+*.pyc
+data/processed/*.csv
+data/processed/*backup*
+models/*.pkl
+hand_landmarker.task
